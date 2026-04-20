@@ -1,72 +1,55 @@
 <h1 align="center">🧠 Smart Mental Wellness Agent</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=22&center=true&vCenter=true&width=500&lines=AI+Mental+Health+Assistant;Emotion+Detection+System;NLP+Based+Chatbot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=24&center=true&vCenter=true&width=520&lines=AI+Mental+Health+Assistant;Emotion+Detection+System;NLP+Chatbot+for+Wellness" />
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="150">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="240">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mental%20Health-AI-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/NLP-Emotion%20Detection-green?style=flat-square">
+  <img src="https://img.shields.io/badge/ML-Powered-orange?style=flat-square">
 </p>
 
 ---
 
 ## 📌 Overview
 
-The **Smart Mental Wellness Agent** is an AI-based system that analyzes user emotions and provides personalized mental health support using **Machine Learning and NLP**.
-
-It helps users understand their emotional state, track mood patterns, and receive intelligent suggestions.
+The **Smart Mental Wellness Agent** is an AI-powered system that analyzes emotions and provides personalized mental health support using **Machine Learning and NLP**.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Features
 
-- Analyze emotions from user text  
-- Predict mood using ML models  
-- Build AI chatbot for support  
-- Track emotional trends  
-- Provide personalized recommendations  
-
----
-
-## 🚀 Features
-
-- 🧠 Emotion Detection (NLP)  
-- 📊 Mood Prediction (ML + Deep Learning)  
+- 🧠 Emotion Detection using NLP  
+- 📊 Mood Prediction using ML models  
 - 🤖 AI Chatbot Support  
-- 📅 Daily Mental Health Check-ins  
-- 📈 Visualization (Charts & Graphs)  
-- 🚨 Emergency Alert System  
+- 📅 Daily Check-ins  
+- 📈 Mood Visualization  
+- 🚨 Emergency Alerts  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** Spring Boot  
-**AI/ML:** Python, Scikit-learn, TensorFlow, NLP (NLTK / spaCy)  
-**Database:** MySQL  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Spring Boot  
+- **AI/ML:** Python, Scikit-learn, TensorFlow, NLP  
+- **Database:** MySQL  
 
 ---
 
 ## 📊 Workflow
 
-1. Data Collection & Preprocessing  
-2. NLP-based Emotion Analysis  
-3. ML Model Training  
-4. Chatbot Development  
-5. Web Integration  
-6. Deployment  
+1. Data Collection  
+2. NLP Emotion Analysis  
+3. Model Training  
+4. Chatbot Integration  
+5. Deployment  
 
----
-
-## 📁 Project Structure
-SmartMentalWellness/
-│
-├── frontend/
-├── backend/
-├── ai-module/
-├── database/
-└── README.md
 ---
 
 ## 👨‍💻 Team
@@ -78,13 +61,6 @@ SmartMentalWellness/
 
 ---
 
-## 📬 Contact
-
-📧 rm2739159@gmail.com  
-📱 9125474036  
-
----
-
 ## ⭐ Support
 
-If you found this project useful, give it a ⭐ on GitHub.
+Give a ⭐ if you like this project!
