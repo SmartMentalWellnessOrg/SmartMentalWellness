@@ -1,39 +1,46 @@
 <h1 align="center">🧠 Smart Mental Wellness Agent</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Mental+Health+Assistant;Emotion+Detection+System;NLP+Based+Chatbot;Final+Year+Project" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Mental+Health+Assistant;Brain+Powered+Emotion+Detection;NLP+Based+Chatbot;Final+Year+Project+2026" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="420">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Chatbot-orange?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 📌 Project Overview
 
-The **Smart Mental Wellness Agent** is an AI-based system designed to analyze user emotions and provide personalized mental health support using **Machine Learning and Natural Language Processing (NLP)**.
+The **Smart Mental Wellness Agent** is an AI-powered system designed to analyze human emotions and provide intelligent mental health support using **Machine Learning and Natural Language Processing (NLP)**.
 
-It helps users track their mental state, receive suggestions, and interact with an AI chatbot for emotional support.
+It acts as a **digital mental health assistant** that understands user emotions, predicts mood patterns, and provides personalized recommendations.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze user emotions from text input  
-- Predict mood using ML models  
-- Provide personalized suggestions  
-- Build AI chatbot for real-time support  
-- Track emotional patterns over time  
+- 🧠 Analyze emotions from user text input  
+- 📊 Predict mood using ML models  
+- 🤖 Develop AI chatbot for real-time support  
+- 📈 Track emotional trends over time  
+- 💡 Provide personalized wellness suggestions  
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
 ✨ Emotion Detection using NLP  
-✨ Mood Prediction (ML + Deep Learning)  
-✨ AI Chatbot Support 🤖  
+✨ Mood Prediction (Logistic Regression, Random Forest, LSTM)  
+✨ AI Chatbot Support System 🤖  
 ✨ Daily Mental Health Check-ins  
-✨ Visualization using Graphs 📊  
+✨ Data Visualization (Graphs & Trends) 📊  
 ✨ Emergency Alert System 🚨  
 
 ---
@@ -59,50 +66,13 @@ It helps users track their mental state, receive suggestions, and interact with 
 
 ---
 
-## 📊 Workflow
+## 🧩 Project Architecture
 
-1. Data Collection & Preprocessing  
-2. NLP-based Emotion Analysis  
-3. ML Model Training  
-4. Chatbot Development  
-5. Web Integration  
-6. Deployment  
-
----
-
-## 📈 Future Enhancements
-
-🚀 Voice-based Emotion Detection  
-🚀 Stress Detection using Typing Patterns  
-🚀 Mobile Application  
-🚀 AI Therapist Assistant  
-
----
-
-## 👨‍💻 Team Members
-
-- Raj Singh  
-- Namrata Pundhir  
-- Riya Upadhyay  
-- Ritesh Singh  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajsingh6389&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rajsingh6389&theme=tokyonight)
-
----
-
-## 📬 Contact
-
-📧 Email: rm2739159@gmail.com  
-📱 WhatsApp: 9125474036  
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
+```bash
+SmartMentalWellness/
+│
+├── frontend/        # React UI
+├── backend/         # Spring Boot APIs
+├── ai-module/       # ML + NLP Models
+├── database/        # MySQL Scripts
+└── README.md
