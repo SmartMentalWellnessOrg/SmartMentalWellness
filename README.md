@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Smart Mental Wellness Agent</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=24&center=true&vCenter=true&width=520&lines=AI+Mental+Health+Assistant;Emotion+Detection+System;NLP+Chatbot+for+Wellness" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=24&center=true&vCenter=true&width=520&lines=AI+Mental+Health+Detection;Mental+Health+Detection+System;NLP+Chatbot+for+Wellness" />
 </p>
 
 <p align="center">
